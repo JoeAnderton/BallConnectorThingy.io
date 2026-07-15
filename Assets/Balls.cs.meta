@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 810b3e372843da0469e3b2ba25c04327
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextBall: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - square: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
